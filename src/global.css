@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Bellefair&display=swap");
+
+body {
+  font-family: "Bellefair", serif;
+}
